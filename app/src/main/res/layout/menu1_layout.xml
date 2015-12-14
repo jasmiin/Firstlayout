@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/h"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"/>
+
+
+    <EditText
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_below="@+id/imageView"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="@string/search"
+        android:id="@+id/button"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_toRightOf="@+id/editText"
+        android:layout_toEndOf="@+id/editText" />
+
+
+    <TableLayout
+        android:id="@+id/table"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shrinkColumns="*"
+        android:stretchColumns="*"
+        android:background="#ffffff"
+        android:layout_below="@+id/editText">
+
+
+
+        <TableRow
+            android:id="@+id/tableRow"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <ImageSwitcher
+                android:id="@+id/imageSwitcher1"
+                android:layout_width="fill_parent"
+                android:layout_height="236dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+
+            <ImageSwitcher
+                android:id="@+id/imageSwitcher2"
+                android:layout_width="fill_parent"
+                android:layout_height="236dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+    <ImageSwitcher
+        android:id="@+id/imageSwitcher"
+        android:layout_width="fill_parent"
+        android:layout_height="236dp"
+        android:layout_below="@+id/table"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"/>
+
+
+    </RelativeLayout>
+</ScrollView>

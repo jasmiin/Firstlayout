@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu10_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu4_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu5_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu6_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu7_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu8_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/marketboost/layout/menu9_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/b.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/c.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/d.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/e.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/f.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/a.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/b.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/c.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/d.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/e.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/f.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/a.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/b.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/c.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/d.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/e.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/f.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/a.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/b.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/c.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/d.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/e.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/f.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu10_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu4_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu5_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu6_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu7_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu8_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu9_layout.xml" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foodfindsasia</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Columnist</string>
+    <string name="title_section3">Affiliate Discount</string>
+    <string name="title_section4">Recipes</string>
+    <string name="title_section5">Leadership</string>
+    <string name="title_section6">Tech and Trends</string>
+    <string name="title_section7">Members</string>
+    <string name="title_section8">Market</string>
+    <string name="title_section9">Discount</string>
+    <string name="title_section10">My Account</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">action</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="search">Search</string>
+</resources>
